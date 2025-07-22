@@ -18,7 +18,7 @@
 <div align="center">
 
 <a href="https://github.com/23catur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=23catur&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&custom_title=🔥%20Coding%20Stats" alt="Catur's GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=23catur&show_icons=true&theme=tokyonight&custom_title=🔥+Coding+Stats" alt="GitHub Stats"/>
 </a>
 
 <a href="https://github.com/23catur">
