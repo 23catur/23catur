@@ -305,19 +305,23 @@ Asset management system designed to support structured asset recording, monitori
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=23catur&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&custom_title=GitHub%20Statistics"
-alt="Catur's GitHub Statistics"
-/>
+<a href="https://github.com/23catur">
+<img src="https://img.shields.io/badge/GitHub-23catur-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=23catur&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
-alt="Top Languages"
-/>
+<br><br>
+
+<img src="https://img.shields.io/github/followers/23catur?label=Followers&style=flat-square&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/23catur?style=flat-square&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/github/repo-size/23catur/Sistem-Informasi-Partai-Politik?label=Project%20Size&style=flat-square" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=23catur&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
-
-> **Note:** GitHub Analytics menggunakan layanan pihak ketiga. Jika endpoint tersebut sedang mengalami gangguan, bagian statistik dapat tidak tampil sementara.
 
 ---
 
@@ -325,25 +329,69 @@ alt="Top Languages"
 
 <div align="center">
 
-### **Build things that solve real problems.**
+Build with purpose.
+Solve with technology.
+Improve continuously.
 
 <br>
 
-```text
-                 IDEA
-                  ↓
-                DESIGN
-                  ↓
-               DEVELOP
-                  ↓
-                 TEST
-                  ↓
-               DEPLOY
-                  ↓
-               IMPROVE
-```
+<table> <tr> <td align="center" width="25%">
 
-### Simple → Useful → Scalable → Maintainable
+🎯
+
+Purpose
+
+Understand the problem before writing the solution.
+
+</td>
+
+<td align="center" width="25%">
+
+🧩
+
+Design
+
+Create solutions that are simple, structured, and intuitive.
+
+</td>
+
+<td align="center" width="25%">
+
+⚙️
+
+Build
+
+Turn ideas into reliable and maintainable software.
+
+</td>
+
+<td align="center" width="25%">
+
+🚀
+
+Improve
+
+Measure, learn, optimize, and keep moving forward.
+
+</td> </tr> </table>
+
+<br>
+
+      THINK
+        ↓
+      DESIGN
+        ↓
+       BUILD
+        ↓
+       TEST
+        ↓
+      DEPLOY
+        ↓
+      IMPROVE
+
+<br>
+
+Purpose → Design → Build → Improve
 
 </div>
 
