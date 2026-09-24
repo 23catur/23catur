@@ -187,19 +187,15 @@ Connecting applications, services, and data through reliable API-driven architec
 
 <div align="center">
 
-<a href="https://github.com/23catur">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=23catur&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&custom_title=GitHub%20Stats" />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=23catur&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&custom_title=GitHub%20Stats"
+  alt="Catur's GitHub Stats"
+/>
 
-<a href="https://github.com/23catur">
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=23catur&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&currStreakLabel=38BDF8" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/23catur">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23catur&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=23catur&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
+  alt="Top Languages"
+/>
 
 </div>
 
@@ -209,13 +205,51 @@ Connecting applications, services, and data through reliable API-driven architec
 
 <div align="center">
 
-<a href="https://github.com/23catur">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=23catur&repo=meal-coupon&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏛️ Sistem Informasi Partai Politik</h3>
+
+<p>
+A web-based information system designed to manage and present political party data, organizational information, and related digital content in a structured platform.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Application-0D1117?style=flat-square"/>
+</p>
+
+<a href="https://github.com/23catur/Sistem-Informasi-Partai-Politik">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/23catur">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=23catur&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📦 Manajemen Asset</h3>
+
+<p>
+An asset management system designed to support structured asset recording, monitoring, and management for organizational operational needs.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Management%20System-0D1117?style=flat-square"/>
+</p>
+
+<a href="https://github.com/23catur/Manajemen_Asset">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -223,13 +257,15 @@ Connecting applications, services, and data through reliable API-driven architec
 
 <div align="center">
 
-**More projects →**
-
 <a href="https://github.com/23catur?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img
+src="https://img.shields.io/badge/View%20All%20Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=white"
+alt="View All Repositories"
+/>
 </a>
 
 </div>
+
 
 ---
 
