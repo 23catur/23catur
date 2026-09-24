@@ -305,21 +305,61 @@ Asset management system designed to support structured asset recording, monitori
 
 <div align="center">
 
+### Open Source · Development · Continuous Learning
+
+<br>
+
 <a href="https://github.com/23catur">
 <img src="https://img.shields.io/badge/GitHub-23catur-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/23catur?label=Followers&style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/followers/23catur?label=Followers&style=flat-square&logo=github&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/23catur?style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/stars/23catur?label=Total%20Stars&style=flat-square&logo=github&logoColor=white" />
 &nbsp;
-<img src="https://img.shields.io/github/repo-size/23catur/Sistem-Informasi-Partai-Politik?label=Project%20Size&style=flat-square" />
+<img src="https://img.shields.io/github/repos/23catur?label=Repositories&style=flat-square&logo=github&logoColor=white" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=23catur&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💻
+
+**Web Development**
+
+Laravel · PHP · MySQL
+
+</td>
+
+<td align="center" width="33%">
+
+### 📱
+
+**Mobile Development**
+
+Flutter · Kotlin · Android
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏢
+
+**Business Systems**
+
+HRIS · Management · Integration
+
+</td>
+</tr>
+</table>
+
+<br>
+
+> **Building, learning, and improving — one project at a time.**
 
 </div>
 
@@ -329,71 +369,81 @@ Asset management system designed to support structured asset recording, monitori
 
 <div align="center">
 
-Build with purpose.
-Solve with technology.
-Improve continuously.
+## **Think beyond the code.**
+
+Build software that is **useful, reliable, and built to last.**
 
 <br>
 
-<table> <tr> <td align="center" width="25%">
+<table>
+<tr>
 
-🎯
+<td align="center" width="25%">
 
-Purpose
+### 01
 
-Understand the problem before writing the solution.
+## 🎯
+
+**UNDERSTAND**
+
+Start with the problem,
+not the technology.
 
 </td>
 
 <td align="center" width="25%">
 
-🧩
+### 02
 
-Design
+## 🧠
 
-Create solutions that are simple, structured, and intuitive.
+**DESIGN**
 
-</td>
-
-<td align="center" width="25%">
-
-⚙️
-
-Build
-
-Turn ideas into reliable and maintainable software.
+Keep the solution
+simple and intentional.
 
 </td>
 
 <td align="center" width="25%">
 
-🚀
+### 03
 
-Improve
+## ⚙️
 
-Measure, learn, optimize, and keep moving forward.
+**BUILD**
 
-</td> </tr> </table>
+Write clean, reliable,
+and maintainable software.
+
+</td>
+
+<td align="center" width="25%">
+
+### 04
+
+## 🚀
+
+**EVOLVE**
+
+Measure, improve,
+and keep moving forward.
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-      THINK
-        ↓
-      DESIGN
-        ↓
-       BUILD
-        ↓
-       TEST
-        ↓
-      DEPLOY
-        ↓
-      IMPROVE
+### `Understand → Design → Build → Evolve`
 
 <br>
 
-Purpose → Design → Build → Improve
+**Technology is the tool.
+Problem-solving is the purpose.**
 
 </div>
+
 
 ---
 
