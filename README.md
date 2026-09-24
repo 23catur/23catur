@@ -1,19 +1,23 @@
 <div align="center">
 
-# 👋 Hi, I'm **Catur Wira Syahputra Muchtar**
+# Catur Wira Syahputra Muchtar
 
-### `Mobile & Web Developer` · `Software Engineer` · `Tech Enthusiast`
+### Software Engineer · Web & Mobile Developer · System Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Digital+Solutions;Laravel+%7C+Flutter+%7C+Android;Web+%26+Mobile+Development;Business+%26+Enterprise+Systems;Code.+Design.+Deploy." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Digital+Solutions;Laravel+%7C+Flutter+%7C+Android;Business+%26+Enterprise+Systems;Web+%26+Mobile+Applications;Code.+Design.+Deploy.+Improve." alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/23catur">
-<img src="https://img.shields.io/github/followers/23catur?style=for-the-badge&logo=github&label=Followers&color=181717" />
+<img src="https://img.shields.io/github/followers/23catur?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" />
 </a>
 &nbsp;
-<a href="https://github.com/23catur">
-<img src="https://img.shields.io/github/stars/23catur?style=for-the-badge&logo=github&label=Stars&color=F59E0B" />
+<a href="https://github.com/23catur?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://kodeinnaja.com/">
+<img src="https://img.shields.io/badge/KODEIN.AJA-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -28,10 +32,10 @@
 $developer = [
     "name"     => "Catur Wira Syahputra Muchtar",
     "location" => "Makassar, Indonesia 🇮🇩",
-    "role"     => "Mobile & Web Developer",
+    "role"     => "Software Engineer",
     "startup"  => "KODEIN.AJA",
 
-    "focus" => [
+    "specialization" => [
         "Web Applications",
         "Mobile Applications",
         "Business Systems",
@@ -39,53 +43,49 @@ $developer = [
         "Digital Solutions"
     ],
 
-    "mindset" => "Build things that solve real problems."
+    "principle" => "Build technology that solves real problems."
 ];
 ```
 
-I'm a **Mobile & Web Developer** passionate about turning ideas into **clean, functional, and scalable digital solutions**.
+I'm a **Software Engineer and Web & Mobile Developer** focused on building practical, scalable, and maintainable digital solutions.
 
-I enjoy working across the development lifecycle — from **UI/UX, application development, database design, API integration, system architecture, to deployment**.
+My work covers the complete development lifecycle — from **UI/UX and application development to database architecture, API integration, system design, and deployment**.
 
-I'm particularly interested in building software that connects **people, processes, and data** into reliable systems.
+I enjoy transforming operational requirements and business processes into **reliable software systems that connect people, processes, and data**.
 
 ---
 
-# 🚀 Building KODEIN.AJA
+# 🚀 KODEIN.AJA
 
 <div align="center">
 
-<a href="https://kodeinnaja.com/">
-<img src="https://img.shields.io/badge/KODEIN.AJA-Software%20Development-0D1117?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" />
-</a>
-
-### **KODEIN.AJA**
-
-**Software Development & Digital Solutions**
+### **Software Development & Digital Solutions**
 
 Building modern websites, applications, business systems, and customized software solutions for businesses and organizations.
 
 <br>
 
 <a href="https://kodeinnaja.com/">
-<img src="https://img.shields.io/badge/🌐_Visit-kodeinnaja.com-38BDF8?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/🌐_kodeinnaja.com-Visit%20Website-38BDF8?style=for-the-badge&labelColor=0D1117" />
 </a>
 
 </div>
 
+<br>
+
 ```text
                          KODEIN.AJA
                              │
-            ┌────────────────┼────────────────┐
-            │                │                │
-       Web Development   Mobile Apps    Business Systems
-            │                │                │
-            └────────────────┼────────────────┘
+             ┌───────────────┼───────────────┐
+             │               │               │
+        Web Development   Mobile Apps   Business Systems
+             │               │               │
+             └───────────────┼───────────────┘
                              │
-                     Digital Solutions
+                    Digital Solutions
 ```
 
-### What KODEIN.AJA Builds
+### What We Build
 
 * 🌐 Modern **Web Applications**
 * 📱 **Mobile Applications**
@@ -98,37 +98,37 @@ Building modern websites, applications, business systems, and customized softwar
 
 ---
 
-# 🧰 Tech Stack
+# 🧰 Technology Stack
 
-## 🌐 Web Development
+### Web & Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=laravel,php,livewire,tailwind,js,html,css,mysql" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/Filament-F59E0B?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Filament-F59E0B?style=flat-square&logo=filament&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
 </p>
 
-## 📱 Mobile Development
+### Mobile Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase" />
 </p>
 
-## 🗄️ Backend & Database
+### Database, API & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase,apache" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,apache,postman" />
 </p>
 
-## 🔧 Tools & Workflow
+### Tools & Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino" />
 </p>
 
 ---
@@ -137,84 +137,66 @@ Building modern websites, applications, business systems, and customized softwar
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🌐 Web Applications
 
-Modern and responsive web applications designed around real business requirements.
+Modern and responsive applications built around real business requirements.
 
-`Laravel` `PHP` `MySQL` `Livewire` `Filament`
+**Laravel · PHP · MySQL · Livewire · Filament**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📱 Mobile Applications
 
 Android and cross-platform applications focused on usability and performance.
 
-`Flutter` `Dart` `Kotlin` `Java`
+**Flutter · Dart · Kotlin · Java**
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🏢 Business Systems
 
-Digital systems designed to simplify operational processes, data management, and workflows.
+Digital solutions for operational processes, data management, workflows, and reporting.
 
-`HRIS` `Management Systems` `Dashboards`
+**HRIS · Management Systems · Dashboards**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔌 System Integration
+
+Connecting applications and services through structured APIs and reliable data flows.
+
+**REST API · Firebase · MySQL · Postman**
 
 </td>
 
-<td width="50%">
-
-### 🔌 API & Integration
-
-Connecting applications, services, and data through reliable API-driven architectures.
-
-`REST API` `MySQL` `Postman` `Firebase`
-
-</td>
 </tr>
 </table>
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=23catur&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&custom_title=GitHub%20Stats"
-  alt="Catur's GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=23catur&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
 # 📌 Featured Projects
-
-<div align="center">
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🏛️ Sistem Informasi Partai Politik</h3>
+### 🏛️ Sistem Informasi Partai Politik
 
-<p>
-A web-based information system designed to manage and present political party data, organizational information, and related digital content in a structured platform.
-</p>
+Web-based information system designed to manage and present political party data, organizational information, and digital content through a structured platform.
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -223,18 +205,16 @@ A web-based information system designed to manage and present political party da
 </p>
 
 <a href="https://github.com/23catur/Sistem-Informasi-Partai-Politik">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>📦 Manajemen Asset</h3>
+### 📦 Manajemen Asset
 
-<p>
-An asset management system designed to support structured asset recording, monitoring, and management for organizational operational needs.
-</p>
+Asset management system designed to support structured asset recording, monitoring, and management for organizational operational needs.
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -243,7 +223,7 @@ An asset management system designed to support structured asset recording, monit
 </p>
 
 <a href="https://github.com/23catur/Manajemen_Asset">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -251,47 +231,42 @@ An asset management system designed to support structured asset recording, monit
 </tr>
 </table>
 
-</div>
-
 <br>
 
 <div align="center">
 
 <a href="https://github.com/23catur?tab=repositories">
-<img
-src="https://img.shields.io/badge/View%20All%20Repositories-38BDF8?style=for-the-badge&logo=github&logoColor=white"
-alt="View All Repositories"
-/>
+<img src="https://img.shields.io/badge/Explore%20All%20Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-
 ---
 
-# 🧠 Development Focus
+# 🧠 Engineering Focus
 
 ```text
-┌───────────────────────────────────────────────────────┐
-│                   SOFTWARE DEVELOPMENT                │
-├───────────────────────────────────────────────────────┤
-│                                                       │
-│   Frontend          Backend          Database         │
-│      │                 │                 │             │
-│   UI / UX           Laravel            MySQL          │
-│   Blade             PHP                Firebase       │
-│   Tailwind          REST API           Data Modeling  │
-│   Livewire          Authentication     Optimization   │
-│                                                       │
-├───────────────────────────────────────────────────────┤
-│                                                       │
-│   Mobile            Integration        Architecture   │
-│      │                 │                 │             │
-│   Flutter            API              MVC             │
-│   Kotlin             Firebase         Modular Design  │
-│   Android            Services         Scalability     │
-│                                                       │
-└───────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│                     SOFTWARE ENGINEERING                  │
+├───────────────────────────────────────────────────────────┤
+│                                                           │
+│  FRONTEND              BACKEND              DATABASE       │
+│  ────────              ───────              ────────       │
+│  Blade                 Laravel              MySQL          │
+│  Tailwind              PHP                  Firebase       │
+│  Livewire              REST API             Data Modeling  │
+│  JavaScript             Authentication       Optimization  │
+│                                                           │
+├───────────────────────────────────────────────────────────┤
+│                                                           │
+│  MOBILE                INTEGRATION          ARCHITECTURE   │
+│  ──────                ───────────          ────────────   │
+│  Flutter               API                  MVC            │
+│  Dart                  Firebase             Modular Design │
+│  Kotlin                Services             Scalability    │
+│  Android               Data Flow             Maintainability│
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -300,7 +275,7 @@ alt="View All Repositories"
 
 ```yaml
 2026:
-  development:
+  web:
     - Advanced Laravel
     - Filament
     - Livewire
@@ -326,7 +301,27 @@ alt="View All Repositories"
 
 ---
 
-# 💡 Developer Philosophy
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=23catur&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&custom_title=GitHub%20Statistics"
+alt="Catur's GitHub Statistics"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=23catur&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
+alt="Top Languages"
+/>
+
+</div>
+
+> **Note:** GitHub Analytics menggunakan layanan pihak ketiga. Jika endpoint tersebut sedang mengalami gangguan, bagian statistik dapat tidak tampil sementara.
+
+---
+
+# 💡 Development Philosophy
 
 <div align="center">
 
@@ -335,20 +330,20 @@ alt="View All Repositories"
 <br>
 
 ```text
-              IDEA
-               ↓
-             DESIGN
-               ↓
-             DEVELOP
-               ↓
-              TEST
-               ↓
-             DEPLOY
-               ↓
-            IMPROVE
+                 IDEA
+                  ↓
+                DESIGN
+                  ↓
+               DEVELOP
+                  ↓
+                 TEST
+                  ↓
+               DEPLOY
+                  ↓
+               IMPROVE
 ```
 
-**Simple → Useful → Scalable → Maintainable**
+### Simple → Useful → Scalable → Maintainable
 
 </div>
 
@@ -359,7 +354,7 @@ alt="View All Repositories"
 <div align="center">
 
 <a href="https://github.com/23catur">
-<img src="https://img.shields.io/badge/GitHub-23catur-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-23catur-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/catur23">
@@ -384,7 +379,7 @@ alt="View All Repositories"
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=23catur&label=Profile%20Views&color=38BDF8&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=23catur&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views"/>
 
 <br><br>
 
