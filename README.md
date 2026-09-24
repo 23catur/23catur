@@ -1,26 +1,51 @@
 <div align="center">
 
-# Catur Wira Syahputra Muchtar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1e293b,100:38bdf8&text=CATUR%20WIRA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20System%20Builder&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 
-### Software Engineer · Web & Mobile Developer · System Builder
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Digital+Solutions;Laravel+%7C+Flutter+%7C+Android;Business+%26+Enterprise+Systems;Web+%26+Mobile+Applications;Code.+Design.+Deploy.+Improve." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+System+Builder;Web+%26+Mobile+Application+Developer;Laravel+%7C+Flutter+%7C+Android;Business+%26+Enterprise+Systems;Turning+Ideas+Into+Digital+Solutions;Code.+Design.+Deploy.+Improve." alt="Typing SVG" />
+
+<br>
+
+<p>
+  <a href="https://github.com/23catur">
+    <img src="https://img.shields.io/github/followers/23catur?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0f172a&color=38bdf8" />
+  </a>
+  <a href="https://github.com/23catur?tab=repositories">
+    <img src="https://img.shields.io/badge/PROJECTS-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://kodeinnaja.com/">
+    <img src="https://img.shields.io/badge/KODEIN.AJA-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+### ⚡ Building systems that solve real problems.
+
+**Web Applications** · **Mobile Apps** · **Enterprise Systems** · **Business Solutions**
 
 <br>
 
 <a href="https://github.com/23catur">
-<img src="https://img.shields.io/github/followers/23catur?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" />
-</a>
-&nbsp;
-<a href="https://github.com/23catur?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://kodeinnaja.com/">
-<img src="https://img.shields.io/badge/KODEIN.AJA-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/KODEIN.AJA-38bdf8?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/catur23/">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=23catur&style=flat-square&color=38bdf8&label=PROFILE+VIEWS" />
+
 </div>
+
 
 ---
 
